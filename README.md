@@ -2,4 +2,4 @@
 ║  
 ╠══╢In Spotify go to Marketplace > Snippets > + Add CSS  
 ║  
-╚═══╢Paste RevertX2 & Save CSS  
+╚═══╢Paste RevertX2.css & Save CSS  
