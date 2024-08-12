@@ -6,8 +6,7 @@
 ╠══╢In Spotify go to Marketplace > Snippets > + Add CSS  
 ║  
 ╚═══╢Copy/Paste the contents of RevertX2.css into the Custom CSS prompt & Save CSS  
-###  Recommendation
-### [RTL](https://github.com/JayTheXXVII/RTL)
+###  Works Best With [RTL](https://github.com/JayTheXXVII/RTL)
 ## Screenshots
 ### Regular
 ![Screenshot from Google Play Store](https://play-lh.googleusercontent.com/kDXJ6XA2Cm47lzDCvvu6HNCu0PWmTwZKiY0ldCWrCgXGT3Ms-lbP_WN1v5vknspnLT15=w5120-h2880) 
