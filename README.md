@@ -2,7 +2,7 @@
 ╔═╢Install [Spicetify](https://spicetify.app/)  
 ║  
 ╠══╢Press `F12` Copy/Paste `@import url(https://jaythexxvii.github.io/RevertX2/RevertX2.css);` into the CSS prompt
-### or
+### ║ or
 ╠══╢In Spotify go to Marketplace > Snippets > + Add CSS  
 ║  
 ╚═══╢Copy/Paste the contents of RevertX2.css into the Custom CSS prompt & Save CSS  
