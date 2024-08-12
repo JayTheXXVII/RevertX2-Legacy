@@ -3,8 +3,8 @@
 ║  
 ╠══╢In Spotify go to Marketplace > Snippets > + Add CSS  
 ║  
-╚═══╢Copy/Paste the contents of RevertX2.css into the Custom CSS prompt & Save CSS  
-### Recommendation
+╚═══╢Copy/Paste the contents of RevertX2.css into the Custom CSS prompt & Save CSS <br> or paste `@import url(https://jaythexxvii.github.io/RevertX2/RevertX2.css);` into the CSS prompt    
+###  Recommendation
 ### [RTL](https://github.com/JayTheXXVII/RTL)
 ## Screenshots
 ### Regular
