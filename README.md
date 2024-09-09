@@ -11,7 +11,7 @@ Make sure to search for `Global Nav` & enable `Control` in Experimental Features
    - In Spotify go to Marketplace > Snippets > + Add CSS & Paste the contents of [RevertX2.css](https://jaythexxvii.github.io/RevertX2/RevertX2.css) into the Custom CSS prompt & Save
 
 ###  Works Best With [RTL](https://github.com/JayTheXXVII/RTL)
-
+### Highly Recommend [Accented](https://github.com/luximus-hunter/accented) 
 ## Screenshots
 
 |RevertX2|
