@@ -8,7 +8,7 @@ Make sure to search for `Global Nav` & enable `Control` in Experimental Features
 
 1. - Install [Spicetify](https://spicetify.app/)  
 2. - Press `F12` Copy/Paste `@import url(https://jaythexxvii.github.io/RevertX2/RevertX2.css);` into the CSS prompt or;
-   - In Spotify go to Marketplace > Snippets > + Add CSS & Paste the contents of RevertX2.css into the Custom CSS prompt & Save
+   - In Spotify go to Marketplace > Snippets > + Add CSS & Paste the contents of [RevertX2.css](https://jaythexxvii.github.io/RevertX2/RevertX2.css) into the Custom CSS prompt & Save
 
 ###  Works Best With [RTL](https://github.com/JayTheXXVII/RTL)
 
