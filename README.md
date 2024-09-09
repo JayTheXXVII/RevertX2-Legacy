@@ -1,4 +1,5 @@
 ## Installation
+# *Supports Spotify version 1.2.45.454*
 ╔═╢Install [Spicetify](https://spicetify.app/)  
 ║  
 ╠══╢Press `F12` Copy/Paste `@import url(https://jaythexxvii.github.io/RevertX2/RevertX2.css);` into the CSS prompt
@@ -7,6 +8,7 @@
 ║  
 ╚═══╢Copy/Paste the contents of RevertX2.css into the Custom CSS prompt & Save CSS  
 ###  Works Best With [RTL](https://github.com/JayTheXXVII/RTL)
+
 ## Screenshots
 |Regular|
 |---|
