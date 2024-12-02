@@ -1,10 +1,10 @@
 {
   "name": "RevertX2",
   "description": "RevertX2 attempts to emulates the pre-LibraryX Theme *This Version Only Supports Spotify v1.2.45.454*",
-  "preview": "./IMG/logo.png",
-  "usercss": "./user.css",
-  "schemes": "./color.ini",
-  "readme": "./README.md",
+  "preview": "https://jaythexxvii.github.io/RevertX2/IMG/logo.png",
+  "usercss": "https://jaythexxvii.github.io/RevertX2/user.css",
+  "schemes": "https://jaythexxvii.github.io/RevertX2/color.ini",
+  "readme": "https://jaythexxvii.github.io/RevertX2/README.md",
   "authors": [
     {
       "name": "JayTheXXVII",
