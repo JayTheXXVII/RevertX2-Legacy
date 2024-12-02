@@ -5,11 +5,5 @@
   "usercss": "user.css",
   "schemes": "color.ini",
   "readme": "README.md",
-  "authors": [
-    {
-      "name": "JayTheXXVII",
-      "url": "https://github.com/JayTheXXVII",
-    }
-  ],
   "tags": ["Archived", "1.2.45.454"]
 }
