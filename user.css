@@ -1,7 +1,7 @@
 /*RevertX2*/
-		:root {
+		/*:root {
 			--spice-heart: var(--is-active-fg-color) !important;
-		}
+		}*/
 		html.no-focus-outline.spotify__os--is-windows.spotify__container--is-desktop {
 			overflow: hidden;
 		}
