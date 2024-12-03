@@ -467,7 +467,8 @@
 		.progress-bar {--is-active-fg-color: var(--spice-color) !important;}
 
 		/*--background-base*/
-		--background-base: var(--spice-color) !important;
+		.encore-dark-theme .encore-bright-accent-set {
+		--background-base: var(--spice-color) !important;}
 
 		/*Sleep Timer*/
 		#sleep-timer-menu .form-control:focus{border-color: color-mix(in srgb, var(--spice-color, #1db954), #fff 50%); box-shadow: 0 0 0 0.25rem color-mix(in srgb, var(--spice-color, #1db954) 46%, #fff 17%);}
