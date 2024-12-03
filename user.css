@@ -448,3 +448,6 @@
 		}
 	/*Topbar Fix*/
 		.main-topBar-historyButtons,.main-topBar-topbarContentRight{pointer-events:all}.main-topBar-container>*{pointer-events:none}/*.aKOZdeebnsaeeMTiugmO{-webkit-app-region:drag}*/.search-searchCategory-contentArea,button.LegacyChip__LegacyChipComponent-sc-tzfq94-0.LegacyChipComponent-checkbox-chip-sm-useBrowserDefaultFocusStyle.encore-text-body-small{app-region:no-drag!important}.hV9v6y_uYwdAsoiOHpzk.contentSpacing{position:fixed;padding-right:190px;padding-top:20px;padding-bottom:20px;-webkit-app-region:drag!important;z-index:2}.main-home-filterChipsContainer{position:absolute;top:8px;left:80px;z-index:1}
+
+	/*Heart Fix*/
+		.control-button-heart[aria-checked=true] {color: var(--spice-button-active) !important;}
