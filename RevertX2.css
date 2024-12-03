@@ -168,8 +168,8 @@
 /*Bottombar*/
 	/*Heart*/
 		.__heart, .control-button-heart, .main-addButton-active {
-			color: var(--is-active-fg-color);
-			fill: var(--is-active-fg-color);
+			color: var(--spice-color);
+			fill: var(--spice-color);
 		}
 	/*Height*/
 		.main-nowPlayingBar-nowPlayingBar {
@@ -375,7 +375,7 @@
 			background: transparent;
 			border: 0px;
 		}
-		.badge {background-color: var(--is-active-fg-color);}
+		.badge {background-color: var(--spice-color);}
 		
 	/*Better Local Files*/
 		.app-module__stretch-container___SIzsh_betterDlocalDfiles {
@@ -391,7 +391,7 @@
 			border: unset;
 		}
 		button.main-repeatButton-button.main-repeatButton-active {
-			color: var(--is-active-fg-color);
+			color: var(--spice-color);
 		}
 	/*Sleep Timer*/
 		main-genericButton-button.main-genericButton-buttonActive {
@@ -402,10 +402,10 @@
 		}
 		svg.Svg-sc-ytk21e-0.Svg-img-16-icon.uPxdw:active {
 			filter: none;
-			fill: var(--is-active-fg-color);
+			fill: var(--spice-color);
 		}
 		#sleep-timer-menu .btn-primary, #sleep-timer-menu .btn-primary:hover {
-			background: var(--is-active-fg-color) !important;
+			background: var(--spice-color) !important;
 			border: unset !important;
 		}
 		.popup-menu:before {
@@ -448,5 +448,5 @@
 		.main-topBar-historyButtons,.main-topBar-topbarContentRight{pointer-events:all}.main-topBar-container>*{pointer-events:none}.aKOZdeebnsaeeMTiugmO{-webkit-app-region:no-drag}.search-searchCategory-contentArea,button.LegacyChip__LegacyChipComponent-sc-tzfq94-0.LegacyChipComponent-checkbox-chip-sm-useBrowserDefaultFocusStyle.encore-text-body-small{app-region:no-drag!important}.hV9v6y_uYwdAsoiOHpzk.contentSpacing{position:fixed;padding-right:190px;padding-top:20px;padding-bottom:20px;-webkit-app-region:drag!important;z-index:2}.main-home-filterChipsContainer{position:absolute;top:8px;left:80px;z-index:1}
 
 	/*Heart Fix*/
-		.control-button-heart[aria-checked=true] {color: var(--spice-button) !important;}
-		button.Button-sc-1dqy6lx-0.Button-textBrightAccent-small-small-buttonTertiary-iconOnly-condensed-useBrowserDefaultFocusStyle.control-button.control-button-heart {color: var(--spice-button) !important;}
+		.control-button-heart[aria-checked=true] {color: var(--spice-color) !important;}
+		button.Button-sc-1dqy6lx-0.Button-textBrightAccent-small-small-buttonTertiary-iconOnly-condensed-useBrowserDefaultFocusStyle.control-button.control-button-heart {color: var(--spice-color) !important;}
