@@ -1,6 +1,6 @@
 /*RevertX2*/
 		:root {
-			--spice-heart: var(--is-active-fg-color);
+			--spice-heart: var(--is-active-fg-color)
 		}
 		html.no-focus-outline.spotify__os--is-windows.spotify__container--is-desktop {
 			overflow: hidden;
@@ -167,9 +167,9 @@
 		}
 /*Bottombar*/
 	/*Heart*/
-		/*.__heart, .control-button-heart, .main-addButton-active {
+		.__heart, .control-button-heart, .main-addButton-active {
 			color: var(--is-active-fg-color);
-			fill: var(--is-active-fg-color);*/
+			fill: var(--is-active-fg-color);
 		}
 	/*Height*/
 		.main-nowPlayingBar-nowPlayingBar {
