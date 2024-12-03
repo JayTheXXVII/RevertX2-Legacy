@@ -167,9 +167,9 @@
 		}
 /*Bottombar*/
 	/*Heart*/
-		.__heart, .control-button-heart, .main-addButton-active {
+		/*.__heart, .control-button-heart, .main-addButton-active {
 			color: var(--is-active-fg-color);
-			fill: var(--is-active-fg-color);
+			fill: var(--is-active-fg-color);*/
 		}
 	/*Height*/
 		.main-nowPlayingBar-nowPlayingBar {
