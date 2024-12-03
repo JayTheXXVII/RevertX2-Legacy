@@ -444,9 +444,12 @@
 			left: 200px;
 			bottom: 30px;
 		}
+		
+		
 	/*Topbar Fix*/
 		.main-topBar-historyButtons,.main-topBar-topbarContentRight{pointer-events:all}.main-topBar-container>*{pointer-events:none}.aKOZdeebnsaeeMTiugmO{-webkit-app-region:no-drag}.search-searchCategory-contentArea,button.LegacyChip__LegacyChipComponent-sc-tzfq94-0.LegacyChipComponent-checkbox-chip-sm-useBrowserDefaultFocusStyle.encore-text-body-small{app-region:no-drag!important}.hV9v6y_uYwdAsoiOHpzk.contentSpacing{position:fixed;padding-right:190px;padding-top:20px;padding-bottom:20px;-webkit-app-region:drag!important;z-index:2}.main-home-filterChipsContainer{position:absolute;top:8px;left:80px;z-index:1}
-
+	/*Marketplace Colour Dropdown*/
+		.Dropdown-root.is-open .Dropdown-menu {overflow-x: hidden; scrollbar-width: thin;}
 	/*Colour Fix*/
 		/*Color*/
 		.Button-textBrightAccent-small-small-buttonTertiary-iconOnly-condensed-useBrowserDefaultFocusStyle, button.main-repeatButton-button.main-repeatButton-active, .Button-switch-textBrightAccent-small-small-buttonTertiary-iconOnly-useBrowserDefaultFocusStyle:active, .Button-switch-textBrightAccent-small-small-buttonTertiary-iconOnly-useBrowserDefaultFocusStyle, .encore-internal-color-text-bright-accent, .main-trackList-trackListRow.main-trackList-active .main-trackList-rowTitle, .main-trackList-trackListRow.main-trackList-active .main-trackList-rowMarker, .main-genericButton-button.main-genericButton-buttonActive:active:focus, .main-genericButton-button.main-genericButton-buttonActive:active:hover, .main-genericButton-button.main-genericButton-buttonActive, .main-genericButton-button.main-genericButton-buttonActive:focus, .main-genericButton-button.main-genericButton-buttonActive:hover, button.Button-sc-1dqy6lx-0.Button-textBrightAccent-small-small-buttonTertiary-iconOnly-condensed-useBrowserDefaultFocusStyle.control-button.control-button-heart, .devtools-icon, .Button-checkbox-textBrightAccent-small-small-buttonTertiary-iconOnly-useBrowserDefaultFocusStyle {color: var(--spice-color) !important;}
