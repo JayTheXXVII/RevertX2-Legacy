@@ -458,7 +458,7 @@
 		.marketplace-card--installed {border: 1px solid var(--spice-color) !important;}
 
 		/*Fill*/
-		.devtools-icon, button.Button-sc-1dqy6lx-0.Button-textBrightAccent-small-small-buttonTertiary-iconOnly-condensed-useBrowserDefaultFocusStyle.control-button.control-button-heart, svg.main-trackList-arrow, .Svg-presentation-icon-medium-textBrightAccent, .Svg-img-icon-xsmall-textBrightAccent, .Svg-img-icon-small-textBrightAccent {fill: var(--spice-color) !important;}
+		.Svg-img-icon-medium-textBrightAccent, .devtools-icon, button.Button-sc-1dqy6lx-0.Button-textBrightAccent-small-small-buttonTertiary-iconOnly-condensed-useBrowserDefaultFocusStyle.control-button.control-button-heart, svg.main-trackList-arrow, .Svg-presentation-icon-medium-textBrightAccent, .Svg-img-icon-xsmall-textBrightAccent, .Svg-img-icon-small-textBrightAccent {fill: var(--spice-color) !important;}
 
 		/*--is-active-fg-color*/
 		.progress-bar {--is-active-fg-color: var(--spice-color) !important;}
