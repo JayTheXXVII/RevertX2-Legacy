@@ -454,7 +454,7 @@
 		.pUNc2aOeOQANHrhYa1GU .T_JcGdJujSuj014SZfjl, .StyledTabItem-tab-tabItem-useBrowserDefaultFocusStyle[aria-selected="true"]::before, .Button-buttonPrimary-useBrowserDefaultFocusStyle-data-is-icon-only:hover .ButtonInner-sc-14ud5tc-0, .main-genericButton-button.main-genericButton-buttonActiveDot:after {background-color: var(--spice-color);}
 
 		/*Border*/
-		.marketplace-code-editor, #marketplace-add-snippet-container input, textarea, .marketplace-card--installed {border: 1px solid var(--spice-color) !important;}
+		.marketplace-code-editor, #marketplace-add-snippet-container input, .marketplace-card--installed {border: 1px solid var(--spice-color) !important;}
 
 		/*Fill*/
 		.Svg-img-icon-large-textBrightAccent, .Svg-img-icon-medium-textBrightAccent, .devtools-icon, button.Button-sc-1dqy6lx-0.Button-textBrightAccent-small-small-buttonTertiary-iconOnly-condensed-useBrowserDefaultFocusStyle.control-button.control-button-heart, svg.main-trackList-arrow, .Svg-presentation-icon-medium-textBrightAccent, .Svg-img-icon-xsmall-textBrightAccent, .Svg-img-icon-small-textBrightAccent {fill: var(--spice-color) !important;}
