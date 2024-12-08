@@ -350,6 +350,7 @@
 		.Dropdown-control{
 			height: 40px;
 			align-content: center;
+			app-region: no-drag;
 		}
 	/*Snippet Window*/
 		.main-embedWidgetGenerator-container {
