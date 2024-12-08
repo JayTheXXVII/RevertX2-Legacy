@@ -351,6 +351,10 @@
 			height: 40px;
 			align-content: center;
 		}
+	/*Snippet Window*/
+		.main-embedWidgetGenerator-container {
+			app-region: no-drag;
+		}
 /*Custom Apps*/	
 	/*Statistics*/
 		.main-trackList-trackListRow:hover:not(.main-trackList-disabled) .main-trackList-rowMoreButton {
