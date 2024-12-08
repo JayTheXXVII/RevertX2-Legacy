@@ -410,7 +410,7 @@
 			margin-left: 45%;
 			right: unset;
 		}
-		.main-trackList-trackListRow.main-trackList-active .main-trackList-playingIcon { -webkit-filter: unset !important; filter: unset !important;}
+		/*.main-trackList-trackListRow.main-trackList-active .main-trackList-playingIcon { -webkit-filter: unset !important; filter: unset !important;}*/
 /*Artist Page*/
 	/*Cover Gradient*/
 		.main-entityHeader-container.main-entityHeader-withBackgroundImage {
