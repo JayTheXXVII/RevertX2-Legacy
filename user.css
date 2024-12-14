@@ -162,6 +162,8 @@
 		.x-searchInput-searchInputInput {
 			height: 40px;
 		}
+	/*Pointer Events & App-Region*/
+		.main-topBar-topbarContentRight, .main-topBar-historyButtons .main-topBar-button {-webkit-app-region: no-drag;pointer-events: all;}
 /*Bottombar*/
 	/*Heart*/
 		.__heart, .control-button-heart, .main-addButton-active {
