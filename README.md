@@ -7,7 +7,7 @@ Make sure to search for `Global Nav` & enable `Control` in Experimental Features
 |![Global Nav](https://raw.githubusercontent.com/JayTheXXVII/jaythexxvii.github.io/main/Assets/Spicetify/Global_Nav_Setting.png)|
 
 1. - Install [Spicetify](https://spicetify.app/) 
-2. - Install from Marketplace `NEW` or;
+2. - Install from [Marketplace](https://github.com/spicetify/marketplace) `NEW` or;
 - Press `F12` Copy/Paste `@import url(https://jaythexxvii.github.io/RevertX2/RevertX2.css);` into the [CSS prompt](https://github.com/FlafyDev/spotify-css-editor)  (*Updates Automatically*) or;
 - In Spotify go to Marketplace > Snippets > + Add CSS & Paste the contents of [RevertX2.css](https://jaythexxvii.github.io/RevertX2/RevertX2.css) into the Custom CSS prompt & Save (*MUST Manually Update*)
 
