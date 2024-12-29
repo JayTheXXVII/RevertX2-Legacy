@@ -204,6 +204,9 @@
 			background: white !important;
 			color: black !important;
 		}
+	/*Now Playing Center*/
+		.main-nowPlayingBar-center {max-width: -webkit-fill-available;}
+
 /*Alignment*/
 	/*LyricX2*/
 		.lyrics-lyrics-contentContainer{max-width:min-content;min-width:min-content}.lyrics-lyricsContent-text{display:inline-flex;width:400%}.lyrics-lyrics-background{height:110%}.lyrics-lyrics-contentContainer .lyrics-lyrics-contentWrapper{margin:0 32px}.lyrics-lyrics-contentContainer .GML6YUVCeJvRhGznLnqm{margin-top:0!important;padding:0!important;width:max-content}.spotifyinternal-artistnpv .npv-lyrics__text-wrapper--next {opacity: 0.2}
