@@ -158,6 +158,8 @@
 			-webkit-app-region: no-drag;
 			width: fit-content;
 		}
+	/*Better Local Files*/
+		.TabBar-module__tabBar___DxQjm_betterDlocalDfiles ul li {app-region: no-drag;}
 	/*Search Scale*/
 		.x-searchInput-searchInputInput {
 			height: 40px;
