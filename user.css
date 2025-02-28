@@ -363,7 +363,11 @@
 		.main-embedWidgetGenerator-container {
 			app-region: no-drag;
 		}
-/*Custom Apps*/	
+/*Custom Apps*/
+	/*Skip Song Part*/
+		textarea#ssp-import-export-textarea {
+			border: 1px solid var(--spice-color) !important;
+		}	
 	/*Statistics*/
 		.main-trackList-trackListRow:hover:not(.main-trackList-disabled) .main-trackList-rowMoreButton {
 			background: transparent;
