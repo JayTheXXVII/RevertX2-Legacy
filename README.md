@@ -1,5 +1,5 @@
 # Installation
-### *Only Supports Spotify version [1.2.45.454](https://docs.google.com/spreadsheets/d/1wztO1L4zvNykBRw7X4jxP8pvo11oQjT0O5DvZ_-S4Ok/edit?pli=1&gid=803394557#gid=803394557a)*
+### *Only Supports Spotify version [1.2.45.454]([https://docs.google.com/spreadsheets/d/1wztO1L4zvNykBRw7X4jxP8pvo11oQjT0O5DvZ_-S4Ok/edit?pli=1&gid=803394557#gid=803394557a](https://loadspot.pages.dev/))*
 |IMPORTANT|
 |:---:|
 Make sure to search for `Global Nav` & enable `Control` in Experimental Features
