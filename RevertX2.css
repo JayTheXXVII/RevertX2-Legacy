@@ -403,7 +403,7 @@
 			background: transparent;
 			border: unset;
 		}
-		button.main-repeatButton-button.main-repeatButton-active {
+		button.jukebox-toggle.active, button.main-repeatButton-button.main-repeatButton-active {
 			color: var(--spice-color);
 		}
 	/*Sleep Timer*/
